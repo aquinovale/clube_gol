@@ -1,0 +1,12 @@
+.tamanho {
+	height: 30px !important;
+} 
+
+
+#loading {
+      float: right;
+      font-size: 10px;
+      margin-right: 10px;
+      display:none;
+} 
+
